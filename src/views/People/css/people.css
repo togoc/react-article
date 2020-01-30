@@ -1,0 +1,11 @@
+.people-item {
+    margin-left: 7px;
+    white-space: nowrap;
+}
+
+.people {
+    margin-left: -7px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap-reverse;
+}
